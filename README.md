@@ -1,33 +1,35 @@
 # Cybersecurity Portfolio — Al3grus
 
-Repository of practical cybersecurity projects and small tooling.  
-Includes polished capstone reports, short technical summaries, and runnable scripts or artifacts.  
+Repository of practical cybersecurity projects and utilities.  
+Projects are stored here with summaries and full reports.  
+Tools are listed here but link to their own dedicated repositories.  
 All work was produced in controlled lab environments.
 
 ---
 
 ## 📂 Projects
-Capstone-style deliverables with summaries and full reports. Origin noted inside each summary.
 
 - **[Red Team Pentest](Projects/RedTeam-Pentest/summary.md)**  
   Simulated engagement: recon → exploitation → post-exploitation → reporting.  
-  [Full report (PDF)](Projects/RedTeam-Pentest/report.pdf)
 
 - **[Blue Team DFIR](Projects/BlueTeam-DFIR/summary.md)**  
   Linux audit log analysis, event timeline, indicators, containment actions.  
-  [Full report (PDF)](Projects/BlueTeam-DFIR/report.pdf)
 
 ---
 
 ## 🛠️ Tools
-Small utilities and PoCs.
+Tools I developed and maintain are hosted as separate GitHub repositories.  
+This section provides direct links to them:
 
-- `OpenVPN-Manager` — management utility and configuration helpers for OpenVPN deployments. 
-- *(more to come)*
+- **[OpenVPN-Manager](https://github.com/Al3grus/OpenVPN-Manager)**
+  Manage and switch OpenVPN profiles with ease.
+
+- *(More to come as I expand my tooling.)*
 
 ---
 
 ## 📜 Certifications
+
 - **eJPT (Junior Penetration Tester)** — *target October 2025*
 - **Cybersecurity Bootcamp — Code Labs Academy** (Apr–Oct 2025)
 - **ISC2 — Certified in Cybersecurity (CC)** — Issued Mar 2025 (expires Mar 2028)  
@@ -36,5 +38,6 @@ Small utilities and PoCs.
 ---
 
 ### ⚠️ Disclaimer
+
 All work uses **sanitized data** in **controlled lab environments**.  
 No unauthorized access or testing of real systems.
