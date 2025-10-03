@@ -1,4 +1,4 @@
-# Blue Team — Final Project (summary)
+# Blue Team — Final Project
 
 **Origin:** Code Labs Academy — Blue Team / DFIR Capstone
 
@@ -27,4 +27,5 @@
 
 ### Disclaimer
 Lab-only work. All analysis was performed on provided host logs in a controlled environment. No unauthorized activity.
+
 
