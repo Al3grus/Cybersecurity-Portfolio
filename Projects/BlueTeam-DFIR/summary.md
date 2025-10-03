@@ -2,7 +2,7 @@
 
 **Origin:** Code Labs Academy — Blue Team / DFIR Capstone
 
-[Full report (PDF)](Projects/BlueTeam-DFIR/report.pdf)
+[Full report (PDF)](report.pdf)
 
 ---
 
@@ -27,3 +27,4 @@
 
 ### Disclaimer
 Lab-only work. All analysis was performed on provided host logs in a controlled environment. No unauthorized activity.
+
