@@ -30,7 +30,7 @@ This section provides direct links to them:
 
 ## 📜 Certifications
 
-- **eJPT (Junior Penetration Tester)** — *target November 2025*
+- **eJPT (Junior Penetration Tester)** — Issued Nov 2025 - certified with 97% score
 - **Cybersecurity Bootcamp — Code Labs Academy** (Apr–Oct 2025)
 - **ISC2 — Certified in Cybersecurity (CC)** — Issued Mar 2025 (expires Mar 2028)  
 - **CS50: Introduction to Programming with Python (Harvard)** — Issued Apr 2024 
