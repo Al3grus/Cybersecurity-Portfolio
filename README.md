@@ -10,10 +10,10 @@ All work was produced in controlled lab environments.
 ## 📂 Projects
 
 - **[Red Team Pentest](Projects/RedTeam-Pentest/summary.md)**  
-  Simulated engagement: recon → exploitation → post-exploitation → reporting.  
+  Full engagement simulation → reconnaissance → exploitation → post-exploitation → 30-page professional report.
 
 - **[Blue Team DFIR](Projects/BlueTeam-DFIR/summary.md)**  
-  Linux audit log analysis, event timeline, indicators, containment actions.  
+  Linux audit log analysis, event timeline reconstruction, IOC identification, containment actions.  
 
 ---
 
