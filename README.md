@@ -22,9 +22,11 @@ Tools I developed and maintain are hosted as separate GitHub repositories.
 This section provides direct links to them:
 
 - **[OpenVPN-Manager](https://github.com/Al3grus/OpenVPN-Manager)**
+
   Manage and switch OpenVPN profiles with ease.
   
 - **[PenTest-Report-Writing](https://github.com/Al3grus/PenTest-Report-Writing)**
+
   Templates and automation scripts for generating professional penetration testing reports, specifically designed for OSCP exam submissions.
   
 - *(More to come as I expand my tooling.)*
