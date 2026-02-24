@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio — Al3grus
 
-Repository of practical cybersecurity projects and utilities.  
+Repository of practical cybersecurity projects and tools.  
 Projects are stored here with summaries and full reports.  
 Tools are listed here but link to their own dedicated repositories.  
 All work was produced in controlled lab environments.
