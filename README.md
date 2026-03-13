@@ -11,8 +11,7 @@ All work was produced in controlled lab environments.
 
 ### [Argus SOC — AI-Augmented Security Operations Center](https://github.com/Al3grus/Argus-SOC)
 
-A fully operational, two-node SOC lab built on Raspberry Pi hardware, 
-designed to mirror real MSSP/MDR infrastructure.
+A fully functional, AI-powered Security Operations Centre built on home lab hardware — designed to mirror real MSSP/MDR infrastructure with AI-powered alert triage. 
 
 **Stack:** Wazuh SIEM · Suricata NIDS · Claude API (AI triage) · n8n · 
 WireGuard VPN · Cowrie Honeypot · Grafana · PagerDuty · Telegram Bot
