@@ -7,7 +7,7 @@ All work was produced in controlled lab environments.
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured - Project in development
 
 ### [Argus SOC — AI-Augmented Security Operations Center](https://github.com/Al3grus/Argus-SOC)
 
