@@ -16,22 +16,7 @@ All work was produced in controlled lab environments.
 A fully operational SOC lab built on Raspberry Pi hardware and a cloud-hosted 
 central platform, designed to mirror real MSSP/MDR infrastructure.
 
-**Stack:** Wazuh SIEM · Suricata NIDS · Zeek · Velociraptor DFIR · Claude API (AI triage) · 
-n8n · WireGuard VPN · Cowrie Honeypot · Frigate (AI camera) · Grafana · PagerDuty · Telegram Bot
-
-**Architecture:** Hetzner VPS (cloud SOC platform, Helsinki) + Pi 5 (home infrastructure + 
-physical security) + Pi 3B+ (remote edge sensor) — the exact topology used by MSSPs. SPAN port mirroring provides full Lab VLAN traffic visibility to Suricata and Zeek.
-
-**What it demonstrates:**
-- End-to-end incident workflow: detection → AI triage → alert → PagerDuty escalation → PDF report
-- Claude API integration for real-time alert triage and ~80% noise reduction
-- Multi-agent SIEM with custom detection rules and MITRE ATT&CK mapping
-- Cloud-hosted SOC platform on GDPR-compliant x86_64 VPS — Wazuh full stack + n8n (SOAR) + Velociraptor
-- Layered network detection: Suricata (signature) + Zeek (protocol metadata) on hardware SPAN port
-- Live endpoint forensics with Velociraptor — artifact collection and VQL threat hunting
-- Physical security integration: OV5647 camera → MediaMTX → Frigate AI detection → SOC alerts
-- Five documented red team scenarios across the full kill chain
-- Detection gap analysis per scenario — a Detection Engineering deliverable
+**Stack:** Wazuh SIEM (VPS) · Claude API (AI triage) · n8n · WireGuard VPN · Suricata NIDS · Grafana · Zeek · Velociraptor DFIR · Cowrie Honeypot · Frigate (AI camera) · PagerDuty · Telegram Bot
 
 ---
 
